@@ -1,20 +1,64 @@
 # Intelligent Posture-Controlled Wheelchair
 
-This project develops an assistive robotic wheelchair that can be controlled using head or upper-body posture movements.
+An assistive robotic wheelchair system that enables users to control movement using head or upper-body posture.  
+The project aims to support individuals with mobility impairments by providing an intuitive and hands-free control system.
 
-The system detects body posture using sensors or computer vision and converts the detected signals into directional commands for wheelchair movement.
+---
+
+## Overview
+This system detects body posture using sensors or computer vision and converts the detected signals into directional commands for wheelchair movement.
+
+The goal of this project is to demonstrate how intelligent systems and assistive robotics can improve accessibility and independence for people with disabilities.
+
+---
 
 ## Features
-- posture detection
-- movement control
-- assistive mobility support
+- Posture detection using sensors or computer vision
+- Directional wheelchair control
+- Assistive mobility support
+- Real-time response to user movements
 
-## Technologies
-Python
-OpenCV
-Arduino
-Sensors
+---
+
+## Technologies Used
+- Python
+- OpenCV
+- Arduino
+- Sensor modules
+- Embedded systems
+
+---
+
+## System Architecture
+1. Sensors detect head or body posture
+2. Data is processed using Python/OpenCV
+3. Commands are generated for wheelchair movement
+4. Arduino controls the motors based on commands
+
+---
 
 ## Applications
-Assistive technology for people with mobility disabilities.
+- Assistive mobility for people with disabilities
+- Rehabilitation technology
+- Human–machine interaction research
+
+---
+
+## Demo
+Video demonstration of the project:  
+https://drive.google.com/file/d/1ycw683K8r8VYmKMsJ8X8Q1TZuVtprepg/view
+
+---
+
+## Future Improvements
+- Machine learning–based posture recognition
+- Mobile application for monitoring and control
+- Obstacle detection using ultrasonic sensors
+
+---
+
+## Author
+Imtiaz Hussain  
+Computer Science Undergraduate  
+Universitas Negeri Malang
 https://drive.google.com/file/d/1ycw683K8r8VYmKMsJ8X8Q1TZuVtprepg/view?usp=drive_link
