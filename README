@@ -1,0 +1,19 @@
+# Intelligent Posture-Controlled Wheelchair
+
+This project develops an assistive robotic wheelchair that can be controlled using head or upper-body posture movements.
+
+The system detects body posture using sensors or computer vision and converts the detected signals into directional commands for wheelchair movement.
+
+## Features
+- posture detection
+- movement control
+- assistive mobility support
+
+## Technologies
+Python
+OpenCV
+Arduino
+Sensors
+
+## Applications
+Assistive technology for people with mobility disabilities.
